@@ -1,13 +1,4 @@
-﻿using GoveeAmbilight.Command_Packages;
-using System;
-using System.Collections.Generic;
-using System.Net;
-using System.Net.Sockets;
-using System.Runtime.InteropServices;
-using System.Text;
-using System.Text.Json;
-
-namespace GoveeAmbilight
+﻿namespace GoveeAmbilight
 {
     public class GoveeAmbilightCore
     {
@@ -40,10 +31,8 @@ namespace GoveeAmbilight
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine($"[CORE] Successfully performed color change to color {randomColor} for {_device.ToString()}... -");
 
-                Thread.Sleep(1000);
+                Thread.Sleep(250);
             }
-            
-
         }
     }
 }

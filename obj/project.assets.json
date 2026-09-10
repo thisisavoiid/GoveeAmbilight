@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Experimente\\GoveeAmbilight\\GoveeAmbilight.csproj",
+      "projectUniqueName": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeAmbilight.csproj",
       "projectName": "GoveeAmbilight",
-      "projectPath": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Experimente\\GoveeAmbilight\\GoveeAmbilight.csproj",
+      "projectPath": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeAmbilight.csproj",
       "packagesPath": "C:\\Users\\huber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Experimente\\GoveeAmbilight\\obj\\",
+      "outputPath": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,7 +74,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

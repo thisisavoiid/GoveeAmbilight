@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GoveeAmbilight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f582ba9c471a2af8bf7400c56a436fbb87d67062")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoveeAmbilight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoveeAmbilight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics.CodeAnalysis;
-using System.Drawing;
 using System.Text.Json.Serialization;
 
 namespace GoveeAmbilight

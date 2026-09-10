@@ -1,10 +1,4 @@
 ﻿using GoveeAmbilight.Command_Packages;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Net;
-using System.Text;
-using System.Xml;
 
 namespace GoveeAmbilight
 {
