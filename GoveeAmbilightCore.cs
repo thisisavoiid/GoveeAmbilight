@@ -1,17 +1,32 @@
-﻿namespace GoveeAmbilight
+﻿using System.Text.Encodings.Web;
+
+namespace GoveeAmbilight
 {
     public class GoveeAmbilightCore
     {
         private GoveeDevice _device;
         public async void Execute()
         {
+            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(500);
+            DateTime lastRequestSentAt = DateTime.Now;
+
             using ScreenCapture screenshotTaker = new ScreenCapture();
+
             //GoveeColor avgColor = screenshotTaker.GetAverageScreenColor();
 
             //Console.WriteLine(avgColor);
             while (true)
             {
-                Console.WriteLine(screenshotTaker.GetAverageScreenColor());
+                DateTime timeNow = DateTime.Now;
+                TimeSpan difference = timeNow - lastRequestSentAt;
+
+                if (difference < timePerRequest)
+                    continue;
+
+                lastRequestSentAt = timeNow;
+
+                GoveeColor color = screenshotTaker.GetAverageScreenColor();
+                Console.WriteLine($"\u001b[38;2;{color.Red};{color.Green};{color.Blue}m{color}");
             }
 
             return;
@@ -23,7 +38,7 @@
                 Console.WriteLine("No device found!");
                 return;
             }
-            
+
             Random random = new Random();
 
             while (true)
