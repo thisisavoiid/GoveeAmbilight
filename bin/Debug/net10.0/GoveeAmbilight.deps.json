@@ -7,8 +7,95 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "GoveeAmbilight/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "10.0.12",
+          "Vanara.PInvoke.User32": "5.0.7"
+        },
         "runtime": {
           "GoveeAmbilight.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/10.0.12": {
+        "runtime": {
+          "lib/net10.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net10.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "System.Drawing.Common/10.0.12": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "10.0.12"
+        },
+        "runtime": {
+          "lib/net10.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "lib/net10.0/System.Private.Windows.Core.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          },
+          "lib/net10.0/System.Private.Windows.GdiPlus.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1226.42308"
+          }
+        }
+      },
+      "Vanara.Core/5.0.7": {
+        "runtime": {
+          "lib/net7.0/Vanara.Core.dll": {
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.7.0"
+          }
+        },
+        "resources": {
+          "lib/net7.0/fr/Vanara.Core.resources.dll": {
+            "locale": "fr"
+          }
+        }
+      },
+      "Vanara.PInvoke.Gdi32/5.0.7": {
+        "dependencies": {
+          "Vanara.Core": "5.0.7"
+        },
+        "runtime": {
+          "lib/net7.0/Vanara.PInvoke.Gdi32.dll": {
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.7.0"
+          }
+        }
+      },
+      "Vanara.PInvoke.Kernel32/5.0.7": {
+        "dependencies": {
+          "Vanara.Core": "5.0.7"
+        },
+        "runtime": {
+          "lib/net7.0/Vanara.PInvoke.Kernel32.dll": {
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.7.0"
+          }
+        }
+      },
+      "Vanara.PInvoke.User32/5.0.7": {
+        "dependencies": {
+          "Vanara.Core": "5.0.7",
+          "Vanara.PInvoke.Gdi32": "5.0.7",
+          "Vanara.PInvoke.Kernel32": "5.0.7"
+        },
+        "runtime": {
+          "lib/net7.0/Vanara.PInvoke.User32.dll": {
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.7.0"
+          }
         }
       }
     }
@@ -18,6 +105,48 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kdj5cqOwgZCMltEhQ4+WVUoFkMHG08EJfy1MDyS9H+FBg66vTTFyX8YcNl8IQh5wRQv79P+iduQgDGY8ucBR+w==",
+      "path": "microsoft.win32.systemevents/10.0.12",
+      "hashPath": "microsoft.win32.systemevents.10.0.12.nupkg.sha512"
+    },
+    "System.Drawing.Common/10.0.12": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FBUxiucg2gsnyItbpGgyXI5u8FYLcqdLKS1XJkHHTj3RK1c6kpsJr/Y9i4edUNF7LqCYFrHqpHEvpt8/lNBe9w==",
+      "path": "system.drawing.common/10.0.12",
+      "hashPath": "system.drawing.common.10.0.12.nupkg.sha512"
+    },
+    "Vanara.Core/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h395/Y8B3nOiaO+wisRcEOPKO88mqM5XS738L6IX3WjWWT6hH2x5erWZeGHSl8ea9QAqpiCnT9v4wu2dp8DOXg==",
+      "path": "vanara.core/5.0.7",
+      "hashPath": "vanara.core.5.0.7.nupkg.sha512"
+    },
+    "Vanara.PInvoke.Gdi32/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YlktHinJjpmgwNgx+BbpAiOtBRzfijSzmbV62xBSa6GCsQ/aR8EZVLiqij8Qji7xLYXFYevj8gXyUjKhmf2nUg==",
+      "path": "vanara.pinvoke.gdi32/5.0.7",
+      "hashPath": "vanara.pinvoke.gdi32.5.0.7.nupkg.sha512"
+    },
+    "Vanara.PInvoke.Kernel32/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-09AqZGM/qWvsNuqd3I0VVXka+Dx9JJ3IWIGgIl5Z/3y39PU4/1M/l/EAnhO3hafXFpInso2tXnz/cICwgLa5Rw==",
+      "path": "vanara.pinvoke.kernel32/5.0.7",
+      "hashPath": "vanara.pinvoke.kernel32.5.0.7.nupkg.sha512"
+    },
+    "Vanara.PInvoke.User32/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ADD4kdBIMKxmS6zxnMu9jY+ii6TfgWRK2e6p9EOYqU3LCHzlUxfx4zR0T9bsru7/qAMB7+lrwddKq1ZGAoNJoQ==",
+      "path": "vanara.pinvoke.user32/5.0.7",
+      "hashPath": "vanara.pinvoke.user32.5.0.7.nupkg.sha512"
     }
   }
 }

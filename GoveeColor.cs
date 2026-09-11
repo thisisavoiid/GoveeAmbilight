@@ -1,4 +1,5 @@
 ﻿using System.Diagnostics.CodeAnalysis;
+using System.Numerics;
 using System.Text.Json.Serialization;
 
 namespace GoveeAmbilight
@@ -6,20 +7,53 @@ namespace GoveeAmbilight
     public record struct GoveeColor
     {
         [JsonPropertyName("r")]
-        public required int Red { get; set; } = 0;
+        public required long Red { get; set; } = 0;
 
         [JsonPropertyName("g")]
-        public required int Green { get; set; } = 0;
+        public required long Green { get; set; } = 0;
 
         [JsonPropertyName("b")]
-        public required int Blue { get; set; } = 0;
+        public required long Blue { get; set; } = 0;
 
         [SetsRequiredMembers]
-        public GoveeColor(int r, int g, int b)
+        public GoveeColor(long r, long g, long b)
         {
             this.Red = r;
             Green = g;
             Blue = b;
         }
+
+        //public static GoveeColor operator +(GoveeColor a, GoveeColor b)
+        //{
+        //    GoveeColor result = new GoveeColor(
+        //        a.Red + b.Red,
+        //        a.Green + b.Green,
+        //        a.Blue + b.Blue
+        //    );
+
+        //    return result;
+        //}
+
+        //public static GoveeColor operator /(GoveeColor color, int num)
+        //{
+        //    GoveeColor result = new GoveeColor(
+        //        color.Red / num,
+        //        color.Green / num,
+        //        color.Blue / num
+        //    );
+
+        //    return result;
+        //}
+
+        //public static GoveeColor operator -(GoveeColor a, GoveeColor b)
+        //{
+        //    GoveeColor result = new GoveeColor(
+        //        a.Red - b.Red,
+        //        a.Green - b.Green,
+        //        a.Blue - b.Blue
+        //    );
+
+        //    return result;
+        //}
     }
 }

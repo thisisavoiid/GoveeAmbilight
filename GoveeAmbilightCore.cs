@@ -5,6 +5,16 @@
         private GoveeDevice _device;
         public async void Execute()
         {
+            using ScreenCapture screenshotTaker = new ScreenCapture();
+            //GoveeColor avgColor = screenshotTaker.GetAverageScreenColor();
+
+            //Console.WriteLine(avgColor);
+            while (true)
+            {
+                Console.WriteLine(screenshotTaker.GetAverageScreenColor());
+            }
+
+            return;
             _device = await GoveeDeviceScanner.Scan();
             Console.WriteLine(_device);
 

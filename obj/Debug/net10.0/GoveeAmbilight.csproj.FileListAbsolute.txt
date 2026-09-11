@@ -27,3 +27,15 @@ C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug
 C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug\net10.0\GoveeAmbilight.pdb
 C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug\net10.0\GoveeAmbilight.genruntimeconfig.cache
 C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug\net10.0\ref\GoveeAmbilight.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\System.Private.Windows.Core.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\System.Private.Windows.GdiPlus.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\Vanara.Core.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\Vanara.PInvoke.Gdi32.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\Vanara.PInvoke.Kernel32.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\Vanara.PInvoke.User32.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\fr\Vanara.Core.resources.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\bin\Debug\net10.0\runtimes\win\lib\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug\net10.0\GoveeAmbilight.csproj.AssemblyReference.cache
+C:\Users\huber\Documents\Programmieren\C#\Hauptprojekte\GoveeAmbilight\obj\Debug\net10.0\GoveeAmb.8329D41B.Up2Date

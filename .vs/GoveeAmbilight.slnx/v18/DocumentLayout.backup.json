@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\screenshottaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:screenshottaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveedevicescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveedevicescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveepackagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveepackagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:screencapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveeambilightcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveeambilightcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveedevicescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveedevicescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveedevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveepackagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveepackagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\command packages\\igoveeresponsepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,20 +67,12 @@
       "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveeambilightbootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:goveecolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\command packages\\scan\\scanresponsepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:command packages\\scan\\scanresponsepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\command packages\\scan\\scanrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:command packages\\scan\\scanrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\command packages\\scan\\scanmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|solutionrelative:command packages\\scan\\scanmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F36508A3-F787-6CAE-BCE6-EEFAE6EFE902}|GoveeAmbilight.csproj|c:\\users\\huber\\documents\\programmieren\\c#\\hauptprojekte\\goveeambilight\\goveeambilight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,20 +106,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-10T10:24:38.343Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScreenshotTaker.cs",
-              "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\ScreenshotTaker.cs",
-              "RelativeDocumentMoniker": "ScreenshotTaker.cs",
-              "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\ScreenshotTaker.cs",
-              "RelativeToolTip": "ScreenshotTaker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Title": "ScreenCapture.cs",
+              "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\ScreenCapture.cs",
+              "RelativeDocumentMoniker": "ScreenCapture.cs",
+              "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\ScreenCapture.cs",
+              "RelativeToolTip": "ScreenCapture.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-10T10:13:10.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ColorWcMessage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\ColorWc\\ColorWcMessage.cs",
               "RelativeDocumentMoniker": "Command Packages\\ColorWc\\ColorWcMessage.cs",
@@ -131,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ColorWcRequestData.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\ColorWc\\ColorWcRequestData.cs",
               "RelativeDocumentMoniker": "Command Packages\\ColorWc\\ColorWcRequestData.cs",
@@ -143,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ScanRequestData.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanRequestData.cs",
               "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanRequestData.cs",
@@ -155,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ScanResponseMessage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanResponseMessage.cs",
               "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanResponseMessage.cs",
@@ -167,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ScanResponsePackage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanResponsePackage.cs",
               "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanResponsePackage.cs",
@@ -179,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ScanRequestPackage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanRequestPackage.cs",
               "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanRequestPackage.cs",
@@ -191,19 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ScanMessage.cs",
-              "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanMessage.cs",
-              "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanMessage.cs",
-              "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanMessage.cs",
-              "RelativeToolTip": "Command Packages\\Scan\\ScanMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T15:40:43.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ColorWcRequestPackage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\ColorWc\\ColorWcRequestPackage.cs",
               "RelativeDocumentMoniker": "Command Packages\\ColorWc\\ColorWcRequestPackage.cs",
@@ -215,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ScanResponseData.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\Scan\\ScanResponseData.cs",
               "RelativeDocumentMoniker": "Command Packages\\Scan\\ScanResponseData.cs",
@@ -227,20 +227,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GoveeAmbilightCore.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeAmbilightCore.cs",
               "RelativeDocumentMoniker": "GoveeAmbilightCore.cs",
               "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeAmbilightCore.cs",
               "RelativeToolTip": "GoveeAmbilightCore.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T15:42:02.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GoveeDeviceScanner.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeDeviceScanner.cs",
               "RelativeDocumentMoniker": "GoveeDeviceScanner.cs",
@@ -253,19 +253,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "GoveeColor.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeColor.cs",
               "RelativeDocumentMoniker": "GoveeColor.cs",
               "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeColor.cs",
               "RelativeToolTip": "GoveeColor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T18:45:33.745Z"
+              "WhenOpened": "2026-09-07T18:45:33.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "GoveeDevice.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeDevice.cs",
               "RelativeDocumentMoniker": "GoveeDevice.cs",
@@ -273,24 +274,24 @@
               "RelativeToolTip": "GoveeDevice.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T15:47:32.944Z"
+              "WhenOpened": "2026-09-07T15:47:32.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GoveePackageSender.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveePackageSender.cs",
               "RelativeDocumentMoniker": "GoveePackageSender.cs",
               "ToolTip": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveePackageSender.cs",
               "RelativeToolTip": "GoveePackageSender.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T15:45:08.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T15:45:08.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "IGoveeResponsePackage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\IGoveeResponsePackage.cs",
               "RelativeDocumentMoniker": "Command Packages\\IGoveeResponsePackage.cs",
@@ -302,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "IGoveeRequestPackage.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\Command Packages\\IGoveeRequestPackage.cs",
               "RelativeDocumentMoniker": "Command Packages\\IGoveeRequestPackage.cs",
@@ -326,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "GoveeAmbilightBootstrapper.cs",
               "DocumentMoniker": "C:\\Users\\huber\\Documents\\Programmieren\\C#\\Hauptprojekte\\GoveeAmbilight\\GoveeAmbilightBootstrapper.cs",
               "RelativeDocumentMoniker": "GoveeAmbilightBootstrapper.cs",
@@ -335,10 +336,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T13:12:30.72Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
