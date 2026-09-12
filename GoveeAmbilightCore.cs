@@ -7,7 +7,16 @@ namespace GoveeAmbilight
         private GoveeDevice _device;
         public async void Execute()
         {
-            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(500);
+            _device = await GoveeDeviceScanner.Scan();
+            Console.WriteLine(_device);
+
+            if (_device is null)
+            {
+                Console.WriteLine("No device found!");
+                return;
+            }
+
+            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(250);
             DateTime lastRequestSentAt = DateTime.Now;
 
             using ScreenCapture screenshotTaker = new ScreenCapture();
@@ -26,18 +35,12 @@ namespace GoveeAmbilight
                 lastRequestSentAt = timeNow;
 
                 GoveeColor color = screenshotTaker.GetAverageScreenColor();
-                Console.WriteLine($"\u001b[38;2;{color.Red};{color.Green};{color.Blue}m{color}");
+                await _device.SetColor(color);
+                //Console.WriteLine($"\u001b[38;2;{color.Red};{color.Green};{color.Blue}m{color}");
             }
 
             return;
-            _device = await GoveeDeviceScanner.Scan();
-            Console.WriteLine(_device);
-
-            if (_device is null)
-            {
-                Console.WriteLine("No device found!");
-                return;
-            }
+           
 
             Random random = new Random();
 
