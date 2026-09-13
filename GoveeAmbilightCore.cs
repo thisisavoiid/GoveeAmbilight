@@ -16,7 +16,7 @@ namespace GoveeAmbilight
                 return;
             }
 
-            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(250);
+            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(100);
             DateTime lastRequestSentAt = DateTime.Now;
 
             using ScreenCapture screenshotTaker = new ScreenCapture();
