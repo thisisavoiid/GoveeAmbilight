@@ -16,7 +16,7 @@ namespace GoveeAmbilight
                 return;
             }
 
-            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(100);
+            TimeSpan timePerRequest = TimeSpan.FromMilliseconds(30);
             DateTime lastRequestSentAt = DateTime.Now;
 
             using ScreenCapture screenshotTaker = new ScreenCapture();
@@ -30,7 +30,10 @@ namespace GoveeAmbilight
                 TimeSpan difference = timeNow - lastRequestSentAt;
 
                 if (difference < timePerRequest)
+                {
+                    await Task.Delay(timePerRequest - difference);
                     continue;
+                } 
 
                 lastRequestSentAt = timeNow;
 
