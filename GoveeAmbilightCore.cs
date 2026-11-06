@@ -31,7 +31,7 @@ namespace GoveeAmbilight
 
                 if (difference < timePerRequest)
                 {
-                    await Task.Delay(timePerRequest - difference);
+                    //await Task.Delay(timePerRequest - difference);
                     continue;
                 } 
 
